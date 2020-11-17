@@ -92,6 +92,12 @@ The full documentation for the React Material Kit can be found [here](https://ma
 
 <br /><br />
 
+### **Upgrade to PRO**
+
+You can updrade to use the PRO version and access to all the pages & components [here](https://material-ui.com/store/items/the-front-landing-page/).
+
+<br /><br />
+
 ### **Contact Us**
 
 - Email Us: hi@maccarianagency.com
