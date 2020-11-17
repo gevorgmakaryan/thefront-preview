@@ -1,0 +1,63 @@
+{
+  "name": "thefront-free",
+  "author": "maccarian agency",
+  "email": "hi@maccarianagency.com",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write '**/*.{js,css,html}'",
+    "start": "react-scripts start",
+    "build": "cross-env GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.2.1",
+    "@material-ui/icons": "^4.2.1",
+    "@material-ui/lab": "^4.0.0-alpha.39",
+    "@material-ui/pickers": "^3.2.10",
+    "@material-ui/styles": "^4.2.1",
+    "aos": "^2.3.4",
+    "clsx": "^1.0.4",
+    "history": "^4.9.0",
+    "node-sass": "^4.14.1",
+    "npm": "^6.14.7",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.8.6",
+    "react-lazy-load-image-component": "^1.5.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^4.0.0",
+    "react-visibility-sensor": "^5.1.1",
+    "start": "^5.1.0",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "babel-plugin-styled-components": "^1.11.1",
+    "cross-env": "^7.0.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier": "^1.19.1",
+    "prettier-eslint": "^8.8.2",
+    "prettier-eslint-cli": "^5.0.0",
+    "typescript": "^3.5.1"
+  }
+}
