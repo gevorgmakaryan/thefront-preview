@@ -40,7 +40,7 @@ const Pricings = props => {
             variant="outlined"
             withShadow
             liftUp
-            title="Extended License"
+            title="Standard Plus License"
             subtitle="A pay-once license, just for you"
             priceComponent={
               <div>
@@ -49,10 +49,7 @@ const Pricings = props => {
                   component="span"
                   className={classes.fontWeight900}
                 >
-                  $79
-                </Typography>
-                <Typography component="span" variant="subtitle1">
-                  / MO
+                  $89
                 </Typography>
               </div>
             }
@@ -95,10 +92,7 @@ const Pricings = props => {
                   component="span"
                   className={classes.fontWeight900}
                 >
-                  $49
-                </Typography>
-                <Typography component="span" variant="subtitle1">
-                  / MO
+                  $59
                 </Typography>
               </div>
             }
