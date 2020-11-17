@@ -32,6 +32,8 @@ const useStyles = makeStyles(theme => ({
   },
   listItem: {
     cursor: 'pointer',
+    paddingTop: 0,
+    paddingBottom: 0,
   },
   listItemText: {
     flex: '0 0 auto',
@@ -124,7 +126,7 @@ const Topbar = props => {
               href="https://material-ui.com/store/items/the-front-landing-page/"
               className={classes.listItemButton}
             >
-              Upgrade Now
+              Full Product
             </Button>
           </ListItem>
         </List>

@@ -49,11 +49,11 @@ const Hero = props => {
                 Beautiful data representation
                 <br />
                 <Typography component="span" variant="inherit" color="primary">
-                  built with Thefront.
+                  built with theFront.
                 </Typography>
               </span>
             }
-            subtitle="World developers use our THeFront theme to build their internal tools and client admin applications. Save yourself time and money."
+            subtitle="World developers use our theFront theme to build their internal tools and client admin applications. Save yourself time and money."
             ctaGroup={[
               <Button variant="contained" color="primary" size="large">
                 Start now

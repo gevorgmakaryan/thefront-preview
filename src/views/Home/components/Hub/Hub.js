@@ -72,7 +72,7 @@ const Features = props => {
                     </Typography>
                   </span>
                 }
-                subtitle="TheFront styles and extends MAterial UI components, but also included brand new landing page focused components."
+                subtitle="theFront styles and extends Material-UI components, but also included brand new landing page focused components."
                 align="left"
                 fadeUp
                 disableGutter
