@@ -1,6 +1,6 @@
 # [UI Kit - The Front](https://thefront-preview.maccarianagency.com/home)
 
-Material React Landing Pages Kit made with [Material UI's](https://material-ui.com/?ref=maccarian-agency) components, [React](https://reactjs.org/?ref=maccarian-agency) and of course [create-react-app](https://facebook.github.io/create-react-app/?ref=maccarian-agency) to boost your app development process!
+Material React Landing Pages Kit made with [Material-UI's](https://material-ui.com/?ref=maccarian-agency) components, [React](https://reactjs.org/?ref=maccarian-agency) and of course [create-react-app](https://facebook.github.io/create-react-app/?ref=maccarian-agency) to boost your app development process!
 A professional React Kit that comes with plenty of ready-to-use Material-UI components that will help you to build faster & beautiful Fontend pages. Each component is fully customizable, responsive and easy to integrate.
 
 ## Built with
