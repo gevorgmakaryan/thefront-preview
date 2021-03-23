@@ -36,7 +36,7 @@ const useStyles = makeStyles(theme => ({
 }));
 
 const SidebarNav = props => {
-  const { pages, onClose, className, ...rest } = props;
+  const { onClose, className, ...rest } = props;
   const classes = useStyles();
 
   return (
@@ -98,7 +98,6 @@ const SidebarNav = props => {
 
 SidebarNav.propTypes = {
   className: PropTypes.string,
-  pages: PropTypes.object.isRequired,
   onClose: PropTypes.func,
 };
 

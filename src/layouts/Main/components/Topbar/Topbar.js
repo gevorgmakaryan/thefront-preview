@@ -64,7 +64,7 @@ const useStyles = makeStyles(theme => ({
 }));
 
 const Topbar = props => {
-  const { onSidebarOpen, pages, ...rest } = props;
+  const { onSidebarOpen, ...rest } = props;
 
   const classes = useStyles();
 
@@ -146,7 +146,6 @@ const Topbar = props => {
 
 Topbar.propTypes = {
   onSidebarOpen: PropTypes.func,
-  pages: PropTypes.object.isRequired,
 };
 
 export default Topbar;
